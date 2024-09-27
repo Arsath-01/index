@@ -65,7 +65,7 @@ Copy code
 Feel free to modify this template according to your project's requirements!
 
 output;
-file:///D:/web%20design/HTMLCSS1.html
+https://arsath-01.github.io/index/
 
 
 
