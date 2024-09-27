@@ -1,0 +1,218 @@
+.H{
+    margin-left: 30px;
+    font-style: italic;
+    color: aliceblue;
+
+}
+
+.P{
+    margin-left: 30PX;
+    font-style: italic;
+    color: rgb(192, 239, 7);
+    font-size: 28px;
+    position: relative;
+    bottom: 30px;
+   
+}
+body{
+    background-color: rgba(60, 18, 150, 0.926);
+}
+
+.P1{
+    margin-left: 30PX;
+    font-style: italic;
+    color: rgb(192, 239, 7);
+    font-size: 50px;
+
+}
+.P2{
+    margin-left: 30PX;
+    font-style: italic;
+    color: rgb(192, 239, 7);
+    font-size: 50px;
+    position: relative;
+    bottom: 30px;
+}
+.P3{
+    margin-left: 30PX;
+    font-style: italic;
+    position: relative;
+    bottom: 30px;
+    color: aliceblue;
+
+}
+.BOX1{
+    margin-left: 30PX;
+    
+
+}
+.BOX2{
+    margin-left: 30px;
+    top: 15px;
+    
+}
+.BOX3{
+    margin-left: 30px;
+    top: 15px;
+}
+ul{
+    position: absolute;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    margin-left: 1000px;
+    
+
+}
+li{
+    float: left;
+    display: block;
+    padding: 15px;
+    size: 50px;
+    
+}
+.img1{
+    position: absolute;
+    left: 900px;
+    bottom: 120px;
+ }
+ img{
+    width: 500px;
+    
+}
+.ABOUT{
+    text-align: center;
+    color: red;
+    
+}
+.PARA1{
+    text-align: center;
+    font-style: italic;
+    font-size: 30PX;
+    color: rgb(194, 238, 17);
+}
+.PARA2{
+    text-align: center;
+    font-style: italic;
+    font-size: 15PX;
+    color: aliceblue;
+    
+}
+.PARA3{
+    font-style: italic;
+    font-size: 15PX;
+    color: aliceblue;
+    margin-left: 40PX;
+
+}
+.PARA4{
+    font-style: italic;
+    font-size: 15PX;
+    color: aliceblue;
+    margin-left: 40PX;
+}
+.PARA5{
+    font-style: italic;
+    font-size: 15PX;
+    color: aliceblue;
+    margin-left: 40PX;
+}
+
+.PARA6{
+    font-style: italic;
+    font-size: 15PX;
+    color: aliceblue;
+    margin-left: 40PX;
+}
+.PARA7{
+    position: relative;
+    font-style: italic;
+    font-size: 15PX;
+    color: aliceblue;
+    margin-left: 850PX;
+    bottom: 300px;
+}
+.PAGE2{
+    background-color: rgb(36, 41, 104);
+}
+.PAGE3{
+    img{
+        height: 700px;
+        width: 1500px;
+        opacity: 0.9;
+    }
+    background-color: rgb(247, 247, 248);
+}
+.PAGE3T{
+    position:relative;
+    text-align: center;
+    bottom: 420px;
+    font-size: 30PX;
+    color:rgb(253, 251, 251);
+    border-color: rgb(26, 59, 88);
+
+}
+.PAGE4{
+    background-color: aliceblue;
+}
+.MOVE{
+    position: relative;
+    left: 350px;
+    bottom: 565px;
+
+    
+    
+    
+
+}
+.class{
+    background-color: red;
+    border-radius: 100px;
+}
+.MOVE1{
+    position: relative;
+    left: 670px;
+    bottom: 990PX;
+}
+.LAST{
+    position: relative;
+    left: 1000PX;
+    bottom: 1300px;
+    font-size: x-large;
+    font-style: italic;
+    border-color: aquamarine;
+    
+}
+.qwerty{
+    position: relative;
+    left: 1000px;
+    bottom: 1300px;
+    
+    
+    
+}
+.qwerty1{
+    position: relative;
+    left: 1150px;
+    bottom: 1300px;
+
+   
+   
+    
+}
+.subscribe-container{
+    position: relative;
+    bottom: 1230px;
+    left: 150px;
+}
+.LOGO{
+    position: relative;
+    bottom:3980px;
+    left: 230px;
+    
+    
+}
+
+
+
